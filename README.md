@@ -19,3 +19,6 @@ Health inspections are meant to keep people safe, but failure rates change a lot
 
 ## Data Source
 https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5/about_data
+
+## Download PowerBI Dashboard
+https://github.com/showssteamrolls/ShowsScans/releases/tag/v1.0.0
