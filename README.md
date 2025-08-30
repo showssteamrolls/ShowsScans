@@ -13,7 +13,7 @@ Health inspections are meant to keep people safe, but failure rates change a lot
 
 ## Files
 - `pbix/ShowsScans.pbix` — Power BI source file
-- `ShowsScans Chicago Food Inspections Analysis.pdf` — dashboard export
+- `ShowsScanPBI.pdf` — Dashboard Export (Quickview)
 - `ShowsScans_ChicagoFoodInspections_PrepClean.ipynb` — Preprocessing Data, Engineering New Columns, to then go into PowerBI
 
 ## Data Source
